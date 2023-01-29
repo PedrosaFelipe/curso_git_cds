@@ -1,5 +1,5 @@
 # Curso de Git
-Este repositório foi criado para hospedar o projeto que de analise de dados utilizado como fim de entender toda a ferramenta git. 
+Este repositório foi criado para hospedar o projeto de analise de dados utilizado como fim de entender toda a ferramenta git. 
 
 ## Contexto do Problema de Negócio
 
