@@ -57,7 +57,14 @@ Após analisar as respostas das perguntas anteriores, o CEO da XGB Sales lhe fez
 7. Quais motos eu devo comprar? 
    - Leve em conta que eu desejo motos com no máximo 3 anos de uso; no máximo 40 mil quilometros rodados; que sejam de um único dono; que estejam sendo vendidas por possoas físicas e que tenham o valor pretendido de venda menor que o valor do showroom. Envie um relatório contendo o modelo, preço de venda, quilometro rodado e ano, ordenado por valor de venda de forma decrescente para o meu e-mail.
 
-   ## A Base de Dados
+### Git workflow
+
+Utilizamos o método git flow para gerenciar nosso projeto no repositorio.
+
+![git_flow](https://user-images.githubusercontent.com/55566708/216534204-460814c5-6a72-49f8-a409-fe8c254797ca.png)
+
+
+  ## A Base de Dados
 
    O conjunto de dados que representam o contexto está disponível na plataforma do Kaggle. O link para acesso aos dados: [Motorcycle Dataset](https://www.kaggle.com/datasets/nehalbirla/motorcycle-dataset)
 
